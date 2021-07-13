@@ -1,6 +1,6 @@
 # CellTracker
 
-A MATLAB based CellTracker script which can perform velocimetry measurements on magnetic cells 
+A MATLAB based CellTracker script which can perform velocimetry measurements on magnetic cells. 
 This script is written by Tom Niessink as part of a master thesis 'In flow magnetophoresis', 
 University of Twente, the Netherlands.
 
