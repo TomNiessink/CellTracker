@@ -8,6 +8,7 @@ Trackcells.m is the main script, which calls the other files. Simply pressing ru
 load a .avi video file which will be completely processed.
 
 tracking/celltracking.m is the function containing the CellTracking algorithm. 
+
 tracking/findmatch.m is utilized within this function to match cells from different frames.
 
 Correspondation to niessinktom@gmail.com
